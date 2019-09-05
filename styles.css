@@ -1,1 +1,9 @@
-background-color: red;
+body {
+    background-image: linear-gradient(aqua,aquamarine,cornflowerblue)
+}
+      
+#heading {
+    font-family:  'Anton', sans-serif;
+}
+
+
