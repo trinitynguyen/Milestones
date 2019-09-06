@@ -1,9 +1,32 @@
 body {
-    background-image: linear-gradient(aqua,aquamarine,cornflowerblue)
+    background-image: linear-gradient(rgb(145, 238, 233),rgb(151, 226, 207),rgb(117, 156, 230))
 }
       
 #heading {
     font-family:  'Anton', sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 5px #999999;
+    font-size: 40px;
+    
+    
+}
+
+.list {
+    font-weight: bold; font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+  border: 6px solid black; 
+  border-style: double;
+  border-radius: 12px;
+  background-color: white; 
+  
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
 }
 
 
